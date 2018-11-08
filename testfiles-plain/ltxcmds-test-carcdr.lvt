@@ -2,7 +2,7 @@
 %% The original source files were:
 %%
 %% ltxcmds.dtx  (with options: `test-carcdr')
-\input{regression-test}
+\input regression-test
 \catcode`\{=1 %
 \catcode`\}=2 %
 \catcode`\#=6 %
