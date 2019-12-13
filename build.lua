@@ -18,10 +18,12 @@ maxprintline=10000
 checkruns = 2
 
 tdslocations={
-"doc/latex/oberdiek/ltxcmds.pdf",
-"source/latex/oberdiek/ltxcmds.dtx",
-"tex/generic/oberdiek/ltxcmds.sty",
+"doc/latex/ltxcmds/ltxcmds.pdf",
+"source/latex/ltxcmds/ltxcmds.dtx",
+"tex/generic/ltxcmds/ltxcmds.sty",
 }
+
+checkconfigs = {"build","config-plain"}
 
 function update_tag(file,content,tagname,tagdate)
 

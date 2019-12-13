@@ -1,13 +1,13 @@
 % \iffalse meta-comment
 %
 % File: ltxcmds.dtx
-% Version: 2016/05/16 v1.23
+% Version: 2019/12/15 v1.24
 % Info: LaTeX kernel commands for general use
 %
 % Copyright (C)
 %    2009-2011 Heiko Oberdiek
 %    2016-2019 Oberdiek Package Support Group
-%    https://github.com/ho-tex/oberdiek/issues
+%    https://github.com/ho-tex/ltxcmds/issues
 %
 % This work may be distributed and/or modified under the
 % conditions of the LaTeX Project Public License, either
@@ -23,7 +23,7 @@
 %
 % The Current Maintainers of this work are
 % Heiko Oberdiek and the Oberdiek Package Support Group
-% https://github.com/ho-tex/oberdiek/issues
+% https://github.com/ho-tex/ltxcmds/issues
 %
 % The Base Interpreter refers to any `TeX-Format',
 % because some files are installed in TDS:tex/generic//.
@@ -37,8 +37,8 @@
 %    ltxcmds-test-carcdr.tex.
 %
 % Distribution:
-%    CTAN:macros/latex/contrib/oberdiek/ltxcmds.dtx
-%    CTAN:macros/latex/contrib/oberdiek/ltxcmds.pdf
+%    CTAN:macros/latex/contrib/ltxcmds/ltxcmds.dtx
+%    CTAN:macros/latex/contrib/ltxcmds/ltxcmds.pdf
 %
 % Unpacking:
 %    (a) If ltxcmds.ins is present:
@@ -67,9 +67,9 @@
 %       pdflatex ltxcmds.dtx
 %
 % Installation:
-%    TDS:tex/generic/oberdiek/ltxcmds.sty
-%    TDS:doc/latex/oberdiek/ltxcmds.pdf
-%    TDS:source/latex/oberdiek/ltxcmds.dtx
+%    TDS:tex/generic/ltxcmds/ltxcmds.sty
+%    TDS:doc/latex/ltxcmds/ltxcmds.pdf
+%    TDS:source/latex/ltxcmds/ltxcmds.dtx
 %
 %<*ignore>
 \begingroup
@@ -86,7 +86,7 @@
 \input docstrip.tex
 \Msg{************************************************************************}
 \Msg{* Installation}
-\Msg{* Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)}
+\Msg{* Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)}
 \Msg{************************************************************************}
 
 \keepsilent
@@ -98,7 +98,7 @@
 This is a generated file.
 
 Project: ltxcmds
-Version: 2016/05/16 v1.23
+Version: 2019/12/15 v1.24
 
 Copyright (C)
    2009-2011 Heiko Oberdiek
@@ -118,7 +118,7 @@ This work has the LPPL maintenance status "maintained".
 
 The Current Maintainers of this work are
 Heiko Oberdiek and the Oberdiek Package Support Group
-https://github.com/ho-tex/oberdiek/issues
+https://github.com/ho-tex/ltxcmds/issues
 
 
 The Base Interpreter refers to any `TeX-Format',
@@ -138,16 +138,8 @@ and the derived files
 \generate{%
   \file{ltxcmds.ins}{\from{ltxcmds.dtx}{install}}%
   \file{ltxcmds.drv}{\from{ltxcmds.dtx}{driver}}%
-  \usedir{tex/generic/oberdiek}%
+  \usedir{tex/generic/ltxcmds}%
   \file{ltxcmds.sty}{\from{ltxcmds.dtx}{package}}%
-%  \usedir{doc/latex/oberdiek/test}%
-%  \file{ltxcmds-test1.tex}{\from{ltxcmds.dtx}{test1}}%
-%  \file{ltxcmds-test-gobble.tex}{\from{ltxcmds.dtx}{test-gobble}}%
-%  \file{ltxcmds-test-ifempty.tex}{\from{ltxcmds.dtx}{test-ifempty}}%
-%  \file{ltxcmds-test-zapspace.tex}{\from{ltxcmds.dtx}{test-zapspace}}%
-%  \file{ltxcmds-test-ifboxempty.tex}{\from{ltxcmds.dtx}{test-ifboxempty}}%
-%  \file{ltxcmds-test-nextchar.tex}{\from{ltxcmds.dtx}{test-nextchar}}%
-%  \file{ltxcmds-test-carcdr.tex}{\from{ltxcmds.dtx}{test-carcdr}}%
 }
 
 \catcode32=13\relax% active space
@@ -174,7 +166,7 @@ and the derived files
 %<*driver>
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesFile{ltxcmds.drv}%
-  [2016/05/16 v1.23 LaTeX kernel commands for general use (HO)]%
+  [2019/12/15 v1.24 LaTeX kernel commands for general use (HO)]%
 \documentclass{ltxdoc}
 \usepackage{holtxdoc}[2011/11/22]
 \usepackage{zref-savepos}
@@ -191,9 +183,9 @@ and the derived files
 % \GetFileInfo{ltxcmds.drv}
 %
 % \title{The \xpackage{ltxcmds} package}
-% \date{2016/05/16 v1.23}
+% \date{2019/12/15 v1.24}
 % \author{Heiko Oberdiek\thanks
-% {Please report any issues at \url{https://github.com/ho-tex/oberdiek/issues}}}
+% {Please report any issues at \url{https://github.com/ho-tex/ltxcmds/issues}}}
 %
 % \maketitle
 %
@@ -342,7 +334,7 @@ and the derived files
 % \end{declcs}
 %
 % Macros with uppercase letters are expandable in two expansion steps.
-% Changes in version 2016/05/16 v1.23:
+% Changes in version 2019/12/15 v1.24:
 % \begin{itemize}
 % \item
 %   Macros \cs{ltx@carsecond}, \cs{ltx@carthird}, \cs{ltx@carfourth},
@@ -709,7 +701,7 @@ and the derived files
   \fi
 \expandafter\x\csname ver@ltxcmds.sty\endcsname
 \ProvidesPackage{ltxcmds}%
-  [2016/05/16 v1.23 LaTeX kernel commands for general use (HO)]%
+  [2019/12/15 v1.24 LaTeX kernel commands for general use (HO)]%
 %    \end{macrocode}
 %
 %    \begin{macrocode}
@@ -2043,17 +2035,17 @@ $   \next
 % \paragraph{Package.} This package is available on
 % CTAN\footnote{\CTANpkg{ltxcmds}}:
 % \begin{description}
-% \item[\CTAN{macros/latex/contrib/oberdiek/ltxcmds.dtx}] The source file.
-% \item[\CTAN{macros/latex/contrib/oberdiek/ltxcmds.pdf}] Documentation.
+% \item[\CTAN{macros/latex/contrib/ltxcmds/ltxcmds.dtx}] The source file.
+% \item[\CTAN{macros/latex/contrib/ltxcmds/ltxcmds.pdf}] Documentation.
 % \end{description}
 %
 %
-% \paragraph{Bundle.} All the packages of the bundle `oberdiek'
+% \paragraph{Bundle.} All the packages of the bundle `ltxcmds'
 % are also available in a TDS compliant ZIP archive. There
 % the packages are already unpacked and the documentation files
 % are generated. The files and directories obey the TDS standard.
 % \begin{description}
-% \item[\CTANinstall{install/macros/latex/contrib/oberdiek.tds.zip}]
+% \item[\CTANinstall{install/macros/latex/contrib/ltxcmds.tds.zip}]
 % \end{description}
 % \emph{TDS} refers to the standard ``A Directory Structure
 % for \TeX\ Files'' (\CTANpkg{tds}). Directories
@@ -2061,11 +2053,11 @@ $   \next
 %
 % \subsection{Bundle installation}
 %
-% \paragraph{Unpacking.} Unpack the \xfile{oberdiek.tds.zip} in the
+% \paragraph{Unpacking.} Unpack the \xfile{ltxcmds.tds.zip} in the
 % TDS tree (also known as \xfile{texmf} tree) of your choice.
 % Example (linux):
 % \begin{quote}
-%   |unzip oberdiek.tds.zip -d ~/texmf|
+%   |unzip ltxcmds.tds.zip -d ~/texmf|
 % \end{quote}
 %
 % \subsection{Package installation}
@@ -2083,9 +2075,9 @@ $   \next
 % \begin{quote}
 % \def\t{^^A
 % \begin{tabular}{@{}>{\ttfamily}l@{ $\rightarrow$ }>{\ttfamily}l@{}}
-%   ltxcmds.sty & tex/generic/oberdiek/ltxcmds.sty\\
-%   ltxcmds.pdf & doc/latex/oberdiek/ltxcmds.pdf\\
-%   ltxcmds.dtx & source/latex/oberdiek/ltxcmds.dtx\\
+%   ltxcmds.sty & tex/generic/ltxcmds/ltxcmds.sty\\
+%   ltxcmds.pdf & doc/latex/ltxcmds/ltxcmds.pdf\\
+%   ltxcmds.dtx & source/latex/ltxcmds/ltxcmds.dtx\\
 % \end{tabular}^^A
 % }^^A
 % \sbox0{\t}^^A
@@ -2418,6 +2410,10 @@ $   \next
 %     They are expandable in two expansion steps.
 %   \end{Version}
 %   \begin{Version}{2016/05/16 v1.23}
+%   \item
+%     Documentation updates.
+%   \end{Version}
+%   \begin{Version}{2019/12/15 v1.24}
 %   \item
 %     Documentation updates.
 %   \end{Version}
