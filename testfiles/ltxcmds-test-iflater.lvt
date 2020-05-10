@@ -1,0 +1,115 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{ltxcmds,iftex}
+
+\begin{document}\START\showoutput
+\makeatletter
+\@namedef{ver@package1.sty}{1999/03/04 xxx}
+\@namedef{ver@package2.sty}{2020/10/01 xxx}
+
+\@namedef{ver@package3.sty}{1999-03-04 xxx}
+\@namedef{ver@package4.sty}{2020-10-01 xxx}
+
+\@namedef{ver@class1.cls}{1999/03/04 xxx}
+\@namedef{ver@class2.cls}{2020/10/01 xxx}
+
+\@namedef{ver@class3.cls}{1999-03-04 xxx}
+\@namedef{ver@class4.cls}{2020-10-01 xxx}
+
+\@namedef{ver@file1.tex}{1999/03/04 xxx}
+\@namedef{ver@file2.tex}{2020/10/01 xxx}
+
+\@namedef{ver@file3.tex}{1999-03-04 xxx}
+\@namedef{ver@file4.tex}{2020-10-01 xxx}
+
+old/old
+
+\ltx@ifpackagelater{package1}{2020/03/05}{p1 yes}{p1 no} (no)
+
+\ltx@ifpackagelater{package2}{2020/03/05}{p2 yes}{p2 no} (yes)
+
+\ltx@ifpackagelater{packageX}{2020/03/05}{pX yes}{pX no} (no)
+
+
+old/new
+
+\ltx@ifpackagelater{package3}{2020-03-05}{p3 yes}{p3 no} (no)
+
+\ltx@ifpackagelater{package4}{2020-03-05}{p4 yes}{p4 no} (yes)
+
+new/old
+
+\ltx@ifpackagelater{package3}{2020/03/05}{p3 yes}{p3 no} (no)
+
+\ltx@ifpackagelater{package4}{2020/03/05}{p4 yes}{p4 no} (yes)
+
+new/new
+
+\ltx@ifpackagelater{package3}{2020-03-05}{p3 yes}{p3 no} (no)
+
+\ltx@ifpackagelater{package4}{2020-03-05}{p4 yes}{p4 no} (yes)
+
+\ltx@ifpackagelater{packageX}{2020-03-05}{pX yes}{pX no} (no)
+
+
+old/old
+
+\ltx@ifclasslater{class1}{2020/03/05}{c1 yes}{c1 no} (no)
+
+\ltx@ifclasslater{class2}{2020/03/05}{c2 yes}{c2 no} (yes)
+
+\ltx@ifclasslater{classX}{2020/03/05}{cX yes}{cX no} (no)
+
+
+old/new
+
+\ltx@ifclasslater{class3}{2020-03-05}{c3 yes}{c3 no} (no)
+
+\ltx@ifclasslater{class4}{2020-03-05}{c4 yes}{c4 no} (yes)
+
+new/old
+
+\ltx@ifclasslater{class3}{2020/03/05}{c3 yes}{c3 no} (no)
+
+\ltx@ifclasslater{class4}{2020/03/05}{c4 yes}{c4 no} (yes)
+
+new/new
+
+\ltx@ifclasslater{class3}{2020-03-05}{c3 yes}{c3 no} (no)
+
+\ltx@ifclasslater{class4}{2020-03-05}{c4 yes}{c4 no} (yes)
+
+\ltx@ifclasslater{classX}{2020-03-05}{cX yes}{cX no} (no)
+
+old/old
+
+\ltx@iffilelater{file1.tex}{2020/03/05}{f1 yes}{f1 no} (no)
+
+\ltx@iffilelater{file2.tex}{2020/03/05}{f2 yes}{f2 no} (yes)
+
+\ltx@iffilelater{fileX.tex}{2020/03/05}{fX yes}{fX no} (no)
+
+
+old/new
+
+\ltx@iffilelater{file3.tex}{2020-03-05}{f3 yes}{f3 no} (no)
+
+\ltx@iffilelater{file4.tex}{2020-03-05}{f4 yes}{f4 no} (yes)
+
+new/old
+
+\ltx@iffilelater{file3.tex}{2020/03/05}{f3 yes}{f3 no} (no)
+
+\ltx@iffilelater{file4.tex}{2020/03/05}{f4 yes}{f4 no} (yes)
+
+new/new
+
+\ltx@iffilelater{file3.tex}{2020-03-05}{f3 yes}{f3 no} (no)
+
+\ltx@iffilelater{file4.tex}{2020-03-05}{f4 yes}{f4 no} (yes)
+
+\ltx@iffilelater{fileX.tex}{2020-03-05}{fX yes}{fX no} (no)
+
+
+\end{document}
+

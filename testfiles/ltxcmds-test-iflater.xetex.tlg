@@ -1,0 +1,478 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0
+.\glue 16.0
+.\vbox(617.0+0.0)x345.0, shifted 62.0
+..\vbox(12.0+0.0)x345.0, glue set 12.0fil
+...\glue 0.0 plus 1.0fil
+...\hbox(0.0+0.0)x345.0
+..\glue 25.0
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x345.0, glue set 47.99487fil
+...\write-{}
+...\glue(\topskip) 2.5
+...\hbox(7.5+2.49998)x345.0, glue set 298.31999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p1
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 278.23999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p2
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 281.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 pX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 278.23999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 278.23999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 290.56fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 278.23999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 p4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 281.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 pX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 298.31999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 285.0fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c1
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 279.35999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c2
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 282.5fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 cX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 285.0fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 279.35999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 285.0fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 279.35999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 290.56fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 285.0fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 279.35999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 c4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 282.5fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 cX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 298.31999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 286.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f1
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 280.73999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f2
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 fX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 old/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 286.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 280.73999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 294.44fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/old
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 286.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 280.73999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 290.56fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 new/new
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 286.38fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f3
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 280.73999fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 f4
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 yes
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (yes)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 283.88fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 fX
+....\glue 3.33 plus 1.66331 minus 1.1111
+....\TU/lmr/m/n/10 no
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 (no)
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue -2.49998
+...\glue 0.0 plus 1.0fil
+...\glue 0.0
+...\glue 0.0 plus 0.0001fil
+..\glue(\baselineskip) 23.34
+..\hbox(6.66+0.0)x345.0, glue set 170.0fil
+...\glue 0.0 plus 1.0fil
+...\TU/lmr/m/n/10 1
+...\glue 0.0 plus 1.0fil
+(ltxcmds-test-iflater.aux)
