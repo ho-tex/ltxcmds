@@ -1488,6 +1488,8 @@ and the derived files
 % \subsubsection{Version date check}
 %  changed 2020-05-10 to adapt to dates with dashes (ISO)
 %  The core of the commands are copies from the latex commands.
+%    \begin{macro}{\ltx@ifl@ter}
+%    \begin{macro}{\ltx@parse@version@}
 %    \begin{macrocode}
 \def\ltx@ifl@ter#1#2{%
   \expandafter\ltx@ifl@t@r
@@ -1506,6 +1508,7 @@ and the derived files
 \def\ltx@parse@version@dash#1-#2-#3#4#5\@nil{%
   \if\relax#2\relax\else#1\fi#2#3#4 }
 %    \end{macrocode}
+%    \end{macro}
 %    \end{macro}
 %    \begin{macro}{\ltx@iffilelater}
 %    \begin{macrocode}
