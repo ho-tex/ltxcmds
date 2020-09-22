@@ -1983,28 +1983,9 @@ $   \next
 % \end{description}
 %
 %
-% \paragraph{Bundle.} All the packages of the bundle `ltxcmds'
-% are also available in a TDS compliant ZIP archive. There
-% the packages are already unpacked and the documentation files
-% are generated. The files and directories obey the TDS standard.
-% \begin{description}
-% \item[\CTANinstall{install/macros/latex/contrib/ltxcmds.tds.zip}]
-% \end{description}
-% \emph{TDS} refers to the standard ``A Directory Structure
-% for \TeX\ Files'' (\CTANpkg{tds}). Directories
-% with \xfile{texmf} in their name are usually organized this way.
-%
-% \subsection{Bundle installation}
-%
-% \paragraph{Unpacking.} Unpack the \xfile{ltxcmds.tds.zip} in the
-% TDS tree (also known as \xfile{texmf} tree) of your choice.
-% Example (linux):
-% \begin{quote}
-%   |unzip ltxcmds.tds.zip -d ~/texmf|
-% \end{quote}
-%
 % \subsection{Package installation}
-%
+% The package is at best installed with the package manager of the \TeX~system.
+% Manual installation is possible too:
 % \paragraph{Unpacking.} The \xfile{.dtx} file is a self-extracting
 % \docstrip\ archive. The files are extracted by running the
 % \xfile{.dtx} through \plainTeX:
@@ -2365,7 +2346,7 @@ $   \next
 %   and \cs{ltx@ifclasslater} to support dates in ISO format in same way as the
 %   LaTeX kernel does it since 2017. The commands now use the same test as the
 %   LaTeX kernel. \cs{pdfmatch} is no longer used with pdftex, and the tests for dates before
-%   1994 has been removed
+%   1994 have been removed
 %   \end{Version}
 % \end{History}
 %
