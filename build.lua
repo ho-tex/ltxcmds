@@ -12,7 +12,7 @@ installfiles = {
 textfiles = {"README.md"}
 unpackfiles = {'ltxcmds.dtx'}
 
-packtdszip  = true
+packtdszip  = false
 
 maxprintline=10000
 checkruns = 2
