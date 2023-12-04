@@ -1497,9 +1497,9 @@ and the derived files
 \def\ltx@ifl@t@r#1#2{%
   \ifnum\expandafter\ltx@parse@version@#1//00\@nil<%
         \expandafter\ltx@parse@version@#2//00\@nil
-    \expandafter\@secondoftwo
+    \expandafter\ltx@secondoftwo
   \else
-    \expandafter\@firstoftwo
+    \expandafter\ltx@firstoftwo
   \fi}
 \def\ltx@parse@version@#1{\ltx@parse@version0#1}
 \def\ltx@parse@version#1/#2/#3#4#5\@nil{%

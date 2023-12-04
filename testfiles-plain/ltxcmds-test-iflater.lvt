@@ -1,0 +1,12 @@
+\input{regression-test}
+\input ltxcmds.sty
+\tracingoutput1
+\showboxbreadth\maxdimen
+\showboxdepth\maxdimen
+
+\catcode`\@=11
+
+\ltx@ifpackagelater{ltxcmds}{2020-02-01}{yes}{no}
+\ltx@ifpackagelater{ltxcmds}{2040-02-01}{yes}{no}
+
+\bye
