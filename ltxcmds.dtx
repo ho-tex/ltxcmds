@@ -1,12 +1,12 @@
 % \iffalse meta-comment
 %
 % File: ltxcmds.dtx
-% Version: 2020-05-10 v1.25
+% Version: 2023-12-04 v1.26
 % Info: LaTeX kernel commands for general use
 %
 % Copyright (C)
 %    2009-2011 Heiko Oberdiek
-%    2016-2020 Oberdiek Package Support Group
+%    2016-2023 Oberdiek Package Support Group
 %    https://github.com/ho-tex/ltxcmds/issues
 %
 % This work may be distributed and/or modified under the
@@ -86,7 +86,7 @@
 \input docstrip.tex
 \Msg{************************************************************************}
 \Msg{* Installation}
-\Msg{* Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)}
+\Msg{* Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)}
 \Msg{************************************************************************}
 
 \keepsilent
@@ -98,11 +98,11 @@
 This is a generated file.
 
 Project: ltxcmds
-Version: 2020-05-10 v1.25
+Version: 2023-12-04 v1.26
 
 Copyright (C)
    2009-2011 Heiko Oberdiek
-   2016-2020 Oberdiek Package Support Group
+   2016-2023 Oberdiek Package Support Group
 
 This work may be distributed and/or modified under the
 conditions of the LaTeX Project Public License, either
@@ -166,7 +166,7 @@ and the derived files
 %<*driver>
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesFile{ltxcmds.drv}%
-  [2020-05-10 v1.25 LaTeX kernel commands for general use (HO)]%
+  [2023-12-04 v1.26 LaTeX kernel commands for general use (HO)]%
 \documentclass{ltxdoc}
 \usepackage{holtxdoc}[2011/11/22]
 \usepackage{zref-savepos}
@@ -183,7 +183,7 @@ and the derived files
 % \GetFileInfo{ltxcmds.drv}
 %
 % \title{The \xpackage{ltxcmds} package}
-% \date{2020-05-10 v1.25}
+% \date{2023-12-04 v1.26}
 % \author{Heiko Oberdiek\thanks
 % {Please report any issues at \url{https://github.com/ho-tex/ltxcmds/issues}}}
 %
@@ -334,7 +334,7 @@ and the derived files
 % \end{declcs}
 %
 % Macros with uppercase letters are expandable in two expansion steps.
-% Changes in version 2020-05-10 v1.25:
+% Changes in version 2023-12-04 v1.26:
 % \begin{itemize}
 % \item
 %   Macros \cs{ltx@carsecond}, \cs{ltx@carthird}, \cs{ltx@carfourth},
@@ -701,7 +701,7 @@ and the derived files
   \fi
 \expandafter\x\csname ver@ltxcmds.sty\endcsname
 \ProvidesPackage{ltxcmds}%
-  [2020-05-10 v1.25 LaTeX kernel commands for general use (HO)]%
+  [2023-12-04 v1.26 LaTeX kernel commands for general use (HO)]%
 %    \end{macrocode}
 %
 %    \begin{macrocode}
@@ -2347,6 +2347,9 @@ $   \next
 %   LaTeX kernel does it since 2017. The commands now use the same test as the
 %   LaTeX kernel. \cs{pdfmatch} is no longer used with pdftex, and the tests for dates before
 %   1994 have been removed
+%   \end{Version}
+%   \begin{Version}{2023-12-04 v1.26}
+%   \item corrected \cs{ltx@ifl@t@r} for plain.
 %   \end{Version}
 % \end{History}
 %
